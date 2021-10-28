@@ -1,0 +1,17 @@
+.judul{
+    font-size: 20pt;
+    color: black;
+    !important
+}
+
+.register {
+    font-size: 14pt;
+    color: black;
+    !important
+}
+
+button {
+    color: orange;
+    font-size: 14pt;
+    !important
+}
